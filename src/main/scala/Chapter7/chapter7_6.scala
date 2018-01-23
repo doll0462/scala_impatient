@@ -16,6 +16,6 @@ object chapter7_6 extends App{
   val sHashmap = new ScalaHashMap[Int, String]()
   sHashmap ++= jHashmap.asScala
 
-  print(shashmap)
+  print(sHashmap)
 
 }

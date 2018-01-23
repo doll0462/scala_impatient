@@ -64,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chapter6_4.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chapter6_4.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Chapter6/chapter6_4.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
@@ -116,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chapter7_6.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="chapter7_6.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Chapter7/chapter7_6.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="345">
+              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding>
                 <element signature="e#18#59#0" expanded="true" />
               </folding>
@@ -530,12 +530,12 @@
       <updated>1516596518382</updated>
       <workItem from="1516596523142" duration="8448000" />
       <workItem from="1516636082130" duration="304000" />
-      <workItem from="1516681937759" duration="20377000" />
+      <workItem from="1516681937759" duration="20546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29129000" />
+    <option name="totallyTimeSpent" value="29298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
@@ -777,16 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Chapter7/chapter7_6.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#18#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Chapter7/chapter7_5.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -816,6 +806,16 @@
         <state relative-caret-position="115">
           <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Chapter7/chapter7_6.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#18#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
