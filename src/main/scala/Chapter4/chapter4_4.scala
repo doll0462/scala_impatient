@@ -5,12 +5,12 @@ import java.util.Scanner
 import scala.collection.immutable.SortedMap
 import scala.collection.mutable
 
+// 4. Repeat chaper4_2 with an sorted map
+// to print words in sorted order.
+
 object chapter4_4 {
 
   def main(args: Array[String]): Unit = {
-
-    // 4. Repeat chaper4_2 with an sorted map
-    // to print words in sorted order.
 
     val in = new Scanner(new File("C:/in.txt"))
     var map = new mutable.HashMap[String, Int]
